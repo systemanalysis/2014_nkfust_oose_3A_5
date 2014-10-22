@@ -30,6 +30,13 @@
 ####[捌、每個使用案例的初步類別圖](#13)####
 ####[玖、整個系統的初步類別圖](#14)####
 ####[拾、每個名稱事件之合約](#15)####
+  [-GPS定位作業](#23)</br>
+  [-聊天室作業](#24)</br>
+  [-美食列表作業](#25)</br>
+  [-住宿列表作業](#26)</br>
+  [-交通列表作業](#27)</br>
+  [-資料管理作業](#28)</br>
+  [-資料提供作業](#29)</br>
 ####[拾壹、使用案例主要成功情節之英文名稱事件對應]####
 ####[拾貳、使用案例之系統循序圖]####
 
@@ -109,8 +116,8 @@
 ####<a name ="12"/>柒、概念類別列舉表####
 ----------
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10735862_680851342011425_1499196827_n.jpg?oh=1046e1064312a2f534e99958790a4e7d&oe=5448A1F6&__gda__=1414099110_0f6ec9c81f819b8a914dd8706b029ba4">
-  <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10578437_680858708677355_1829107873_n.jpg?oh=2644fad822513258cfbbab5bb8b5f329&oe=544851F2&__gda__=1414028898_776d09c7d8f0b249be8a74ac471f48ff">
-  <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743570_680851328678093_582115130_n.jpg?oh=38f786709d64eb6f40f976b1a5e154d6&oe=5448B4FA&__gda__=1414027687_9f3e370e08672a6561381afc12130e38">
+<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10578437_680858708677355_1829107873_n.jpg?oh=2644fad822513258cfbbab5bb8b5f329&oe=544851F2&__gda__=1414028898_776d09c7d8f0b249be8a74ac471f48ff">
+<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743570_680851328678093_582115130_n.jpg?oh=38f786709d64eb6f40f976b1a5e154d6&oe=5448B4FA&__gda__=1414027687_9f3e370e08672a6561381afc12130e38">
   
 ####<a name ="13"/>捌、每個使用案例的初步類別圖####
 ----------
@@ -119,7 +126,6 @@
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/10729008_680851275344765_784565816_n.jpg?oh=18ac873a7a2bb4ab6ed76065d0c06b0c&oe=54498ED6&__gda__=1414027818_b99e923fe35f568dd1348af257e39fdb">
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10736101_680851288678097_1346809108_n.jpg?oh=6da460882e60394a9656cac12aa34f21&oe=54485568&__gda__=1414101240_f08479669058b00638e5ce2bbd9d6bce">
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10726248_680851285344764_1841627487_n.jpg?oh=bfcad6a4639cb7c6efe3df7380dc6839&oe=5448747B&__gda__=1414027163_1b41d2ddafbb39c3b8de0efd2d17e991">
-<img src="">
 
 ####<a name ="14"/>玖、整個系統的初步類別圖####
 ----------
@@ -127,22 +133,22 @@
 
 ####<a name ="15"/>拾、每個名稱事件之合約####
 ----------
-######-GPS定位作業
+######<a name ="23"/>-GPS定位作業
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/10744557_681104025319490_1006060938_n.jpg?oh=fff212c6f11613d01f186fc44f99d311&oe=5448FC58&__gda__=1414066683_89ae39c98da37f8f2dba5e4b2ef2dd16">
-######-聊天室作業
+######<a name ="24"/>-聊天室作業
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10585020_681104075319485_422343056_n.jpg?oh=dda7849c475c6439760f0bc86ad0686d&oe=5449364C&__gda__=1414093907_a448badd1508487d1a2ae46d3950d28a">
-######-美食列表作業
+######<a name ="25"/>-美食列表作業
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10726579_681104055319487_290625577_n.jpg?oh=353be96b4773f3fc8746274480821c39&oe=54492656&__gda__=1414086537_a5f369506d9965ffb5e70b762cf8dea9">
-######-住宿列表作業
+######<a name ="26"/>-住宿列表作業
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10726350_681104061986153_1489577922_n.jpg?oh=0cbcf259761b63ed0e371d09e22e3b92&oe=54493191&__gda__=1414078449_1ac4248894ed8f2e841dfd30cb4ed2ef">
-######-交通列表作業
+######<a name ="27"/>-交通列表作業
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744683_681104065319486_490534513_n.jpg?oh=0520ce282deb931993596af47440dede&oe=5449326B&__gda__=1414147062_16ba9c2490bce3f9f4f0d3977189ad70">
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10726477_681106565319236_708377464_n.jpg?oh=5d8a73ab425d3042798725034f63a6a2&oe=5448EDE8&__gda__=1414092471_bddaecfe72a7d721c4234c37f8aaf6ad">
-######-資料管理作業
+######<a name ="28"/>-資料管理作業
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744643_681106568652569_1216294251_n.jpg?oh=3ae180219f2adde8b555d973746e5bc6&oe=544A307A&__gda__=1414085546_089873ef61eaa2bfbe0ea7a60dc4468c">
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10726200_681104071986152_998491156_n.jpg?oh=6b31a5ea1dbe2f87de0ef296f93f6fbf&oe=54495B3A&__gda__=1414085093_cb79c39c327edc37ccf990d2d57f71f8">
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10736025_681104088652817_756680999_n.jpg?oh=977b8cb3da8d58ed2d49cae9a2d1f009&oe=54490836&__gda__=1414143147_6de604d00959f52ce54fbd2c325f9ce5">
-######-資料提供作業
+######<a name ="29"/>-資料提供作業
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10580514_681104091986150_358105352_n.jpg?oh=aeec1847a88c121c6400f11291960193&oe=544A376B&__gda__=1414147188_94d248572eb6cbe2aa381d15532cd115">
 ####拾壹、使用案例主要成功情節之英文名稱事件對應(紹恩)####
 ####拾貳、使用案例之系統循序圖(庭瑄)####
