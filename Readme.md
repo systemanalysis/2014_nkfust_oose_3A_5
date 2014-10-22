@@ -156,7 +156,7 @@
 ######<a name ="16"/>-GPS定位作業
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743504_681075751988984_1943271405_n.jpg?oh=e4827543e1d621cfb857ba27ba664436&oe=544969C0&__gda__=1414083536_97f3930c709c69b5745efca5c86c6567">
 ######<a name ="17"/>-聊天室作業
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743378_681075718655654_1355375994_n.jpg?oh=aab69d1004d8091f10aa5b9878f21b95&oe=54494629&__gda__=1414095929_38a9fefff4edd76ff36069f8bb332554">'
+<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10736008_681108438652382_566438802_n.jpg?oh=a91998ff0c1d282dc45ac96d17287756&oe=544A34C9&__gda__=1414084820_ed84d17f0c193a551aa05bb3828f280e">'
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10745063_681075721988987_1447011363_n.jpg?oh=fbbd6c7df358bbf2dd4423e9c5bd7fc6&oe=5449494B&__gda__=1414101019_b91ffbf69ecb375f5f561ff0555395ee">
 ######<a name ="18"/>-美食列表作業
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/10735621_681075745322318_1776185561_n.jpg?oh=c234b35a792bcd2f8324c438c4ec0231&oe=54494237&__gda__=1414068500_799bf6cc20b46b4fd856a9aa73d56131">
