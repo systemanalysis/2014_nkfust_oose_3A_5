@@ -140,6 +140,8 @@
 <img src="">
 <img src="">
 <img src="">
+<img src="">
+<img src="">
 ----------
 ######<a name ="23"/>-GPS定位作業
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/10744557_681104025319490_1006060938_n.jpg?oh=fff212c6f11613d01f186fc44f99d311&oe=5448FC58&__gda__=1414066683_89ae39c98da37f8f2dba5e4b2ef2dd16">
