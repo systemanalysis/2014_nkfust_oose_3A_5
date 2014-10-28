@@ -126,7 +126,7 @@
 
 ####<a name ="12"/>柒、概念類別列舉表####
 ----------
-<img src="https://cloud.githubusercontent.com/assets/8717365/4809194/445c1e08-5ea9-11e4-8d39-4ab232f3ecf6.jpg4">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809194/445c1e08-5ea9-11e4-8d39-4ab232f3ecf6.jpg">
 <img src="https://cloud.githubusercontent.com/assets/8717365/4809196/44618ab4-5ea9-11e4-8c64-c4cd36f59878.jpg">
 <img src="https://cloud.githubusercontent.com/assets/8717365/4809195/445c8a96-5ea9-11e4-9290-f321756845a8.jpg">
   
@@ -154,7 +154,7 @@
 ####<a name ="15"/>拾、每個名稱事件之合約####
 ----------
 ######<a name ="23"/>-GPS定位作業
-<img src="https://cloud.githubusercontent.com/assets/8717365/4809368/f5e2d774-5eaa-11e4-88bb-671411c8ec85.jpg6">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809368/f5e2d774-5eaa-11e4-88bb-671411c8ec85.jpg">
 ######<a name ="24"/>-聊天室作業
 <img src="https://cloud.githubusercontent.com/assets/8717365/4809366/f57f0000-5eaa-11e4-9cbd-79a912251586.jpg">
 ######<a name ="25"/>-美食列表作業
