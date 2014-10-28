@@ -27,7 +27,14 @@
   [-資料提供作業](#11)<br>
 	   
 ####[柒、概念類別列舉表](#12)####
-####[捌、每個使用案例的初步類別圖](#13)####
+####捌、每個使用案例的初步類別圖####
+  [-主畫面](#30)<br>
+  [-聊天室作業](#31)<br>
+  [-美食列表作業](#32)<br>
+  [-住宿列表作業](#33)<br>
+  [-交通列表作業](#34)<br>
+  [-資料管理作業](#35)<br>
+  [-資料提供作業](#36)<br>
 ####[玖、整個系統的初步類別圖](#14)####
 ####[拾、每個名稱事件之合約](#15)####
   [-GPS定位作業](#23)<br>
@@ -84,7 +91,7 @@
 
 ####<a name ="4"/>肆、使用案例表####
 ----------
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743380_681104028652823_91735285_n.jpg?oh=00f2b8e2bb774e25b1286f11fc7fdb7e&oe=5449532D&__gda__=1414077104_a8bec9c6576bfc85679f6e54e0766891">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809685/c2864638-5ead-11e4-8490-d627b037f0fd.jpg">
 
 #####伍、個別使用案例圖#####
 #####陸、活動圖#####
@@ -123,61 +130,64 @@
 <img src="https://cloud.githubusercontent.com/assets/8717365/4809196/44618ab4-5ea9-11e4-8c64-c4cd36f59878.jpg">
 <img src="https://cloud.githubusercontent.com/assets/8717365/4809195/445c8a96-5ea9-11e4-9290-f321756845a8.jpg">
   
-####<a name ="13"/>捌、每個使用案例的初步類別圖####
+####捌、每個使用案例的初步類別圖####
 ----------
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+######<a name ="30"/>-主畫面
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809854/1ceed9a4-5eaf-11e4-9a3f-0cf787e22564.jpg">
+######<a name ="31"/>-聊天室作業
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809952/b92617ec-5eaf-11e4-943a-7097cfcb7347.jpg">
+######<a name ="32"/>-美食列表作業
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809857/1d654364-5eaf-11e4-9d52-1ab018dab4af.jpg">
+######<a name ="33"/>-住宿列表作業
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809856/1d333680-5eaf-11e4-94bc-1c53eb93cc0d.jpg">
+######<a name ="34"/>-交通列表作業
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809855/1d0e919a-5eaf-11e4-8371-cae0a1752dd1.jpg">
+######<a name ="35"/>-資料管理作業
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809859/1da2187a-5eaf-11e4-836b-36908aa00a77.jpg">
+######<a name ="36"/>-資料提供作業
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809951/b9255a14-5eaf-11e4-98f6-70f539082827.jpg">
 
 ####<a name ="14"/>玖、整個系統的初步類別圖####
 ----------
 <img src="">
 
 ####<a name ="15"/>拾、每個名稱事件之合約####
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
 ----------
 ######<a name ="23"/>-GPS定位作業
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/10744557_681104025319490_1006060938_n.jpg?oh=fff212c6f11613d01f186fc44f99d311&oe=5448FC58&__gda__=1414066683_89ae39c98da37f8f2dba5e4b2ef2dd16">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809368/f5e2d774-5eaa-11e4-88bb-671411c8ec85.jpg6">
 ######<a name ="24"/>-聊天室作業
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10585020_681104075319485_422343056_n.jpg?oh=dda7849c475c6439760f0bc86ad0686d&oe=5449364C&__gda__=1414093907_a448badd1508487d1a2ae46d3950d28a">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809366/f57f0000-5eaa-11e4-9cbd-79a912251586.jpg">
 ######<a name ="25"/>-美食列表作業
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10726579_681104055319487_290625577_n.jpg?oh=353be96b4773f3fc8746274480821c39&oe=54492656&__gda__=1414086537_a5f369506d9965ffb5e70b762cf8dea9">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809367/f5a3a770-5eaa-11e4-954e-f165df6a4223.jpg">
 ######<a name ="26"/>-住宿列表作業
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10726350_681104061986153_1489577922_n.jpg?oh=0cbcf259761b63ed0e371d09e22e3b92&oe=54493191&__gda__=1414078449_1ac4248894ed8f2e841dfd30cb4ed2ef">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809669/a727b214-5ead-11e4-9969-1175faf3c160.jpg">
 ######<a name ="27"/>-交通列表作業
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744683_681104065319486_490534513_n.jpg?oh=0520ce282deb931993596af47440dede&oe=5449326B&__gda__=1414147062_16ba9c2490bce3f9f4f0d3977189ad70">
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10726477_681106565319236_708377464_n.jpg?oh=5d8a73ab425d3042798725034f63a6a2&oe=5448EDE8&__gda__=1414092471_bddaecfe72a7d721c4234c37f8aaf6ad">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809370/f62dff88-5eaa-11e4-8b91-f8cc4fb17eab.jpg">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809371/f65ba9ec-5eaa-11e4-882d-a26c38ba19fa.jpg">
 ######<a name ="28"/>-資料管理作業
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744643_681106568652569_1216294251_n.jpg?oh=3ae180219f2adde8b555d973746e5bc6&oe=544A307A&__gda__=1414085546_089873ef61eaa2bfbe0ea7a60dc4468c">
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10726200_681104071986152_998491156_n.jpg?oh=6b31a5ea1dbe2f87de0ef296f93f6fbf&oe=54495B3A&__gda__=1414085093_cb79c39c327edc37ccf990d2d57f71f8">
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10736025_681104088652817_756680999_n.jpg?oh=977b8cb3da8d58ed2d49cae9a2d1f009&oe=54490836&__gda__=1414143147_6de604d00959f52ce54fbd2c325f9ce5">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809372/f69d99b0-5eaa-11e4-82e5-9f42eb8da1b7.jpg">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809373/f6b6c750-5eaa-11e4-961a-f777b8c0394c.jpg">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809374/f7221e06-5eaa-11e4-841e-8a91bae0b6d5.jpg">
 ######<a name ="29"/>-資料提供作業
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10580514_681104091986150_358105352_n.jpg?oh=aeec1847a88c121c6400f11291960193&oe=544A376B&__gda__=1414147188_94d248572eb6cbe2aa381d15532cd115">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809369/f605b9ce-5eaa-11e4-888d-abc7ec8c84b2.jpg">
 ####拾壹、使用案例主要成功情節之英文名稱事件對應(紹恩)####
 ####拾貳、使用案例之系統循序圖(庭瑄)####
 ----------
 ######<a name ="16"/>-GPS定位作業
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743504_681075751988984_1943271405_n.jpg?oh=e4827543e1d621cfb857ba27ba664436&oe=544969C0&__gda__=1414083536_97f3930c709c69b5745efca5c86c6567">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809522/7606d850-5eac-11e4-847a-6b764624ac84.jpg">
 ######<a name ="17"/>-聊天室作業
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10736008_681108438652382_566438802_n.jpg?oh=a91998ff0c1d282dc45ac96d17287756&oe=544A34C9&__gda__=1414084820_ed84d17f0c193a551aa05bb3828f280e">'
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10745063_681075721988987_1447011363_n.jpg?oh=fbbd6c7df358bbf2dd4423e9c5bd7fc6&oe=5449494B&__gda__=1414101019_b91ffbf69ecb375f5f561ff0555395ee">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809529/764cdf6c-5eac-11e4-9b18-a5f018e02636.jpg">'
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809528/764bdad6-5eac-11e4-99d0-eb7a9dce1421.jpg">
 ######<a name ="18"/>-美食列表作業
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/10735621_681075745322318_1776185561_n.jpg?oh=c234b35a792bcd2f8324c438c4ec0231&oe=54494237&__gda__=1414068500_799bf6cc20b46b4fd856a9aa73d56131">
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10735813_681075758655650_1096370796_n.jpg?oh=9cd862cf025552a864812414bb8ee0e6&oe=54492895&__gda__=1414070661_6b6ff95b30fe6109eeea610a137fed8c">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809526/76188f46-5eac-11e4-80b7-6f95c5fa68ca.jpg">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809527/761a1384-5eac-11e4-886d-d4dc991aac92.jpg">
 ######<a name ="19"/>-住宿列表作業
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10728894_681075741988985_409420636_n.jpg?oh=c32bb9ed9877465739fa55c01a646f92&oe=54495E44&__gda__=1414099163_ed810ebff6f6dd2a658e2f7729f7923e">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809525/760ed12c-5eac-11e4-8519-1a284e983c67.jpg">
 ######<a name ="20"/>-交通列表作業
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/10721119_681075738655652_249373946_n.jpg?oh=c7f2a38b720719b59b87b22c4ce984a5&oe=5449315F&__gda__=1414074531_9fb0727592c872aaacc378b13903cb1a">
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10660899_681075728655653_842010138_n.jpg?oh=f417df76680845febc65a4338deaa0c3&oe=54491F56&__gda__=1414096201_18e9070bc1ed002b94ff89196f533179">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809524/760c272e-5eac-11e4-8000-b13024a1eebd.jpg">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809523/76097038-5eac-11e4-9249-f324a475f942.jpg">
 ######<a name ="21"/>-資料管理作業
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10733579_681075748655651_1545434721_n.jpg?oh=57144eb8b8fa1908b9917f9ac49f6bb1&oe=54493409&__gda__=1414096857_d8e66dc7003c00a9287714a6b83526e1">
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10736140_681075761988983_1034094491_n.jpg?oh=fcd9b95de1fa783a74188830cc711cac&oe=54497784&__gda__=1414087956_215696211dc118943d440ed94f9f2849">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809530/7650f016-5eac-11e4-8c7e-ab85f5331d7f.jpg">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809532/7655d752-5eac-11e4-8de8-75be2813a350.jpg">
 ######<a name ="22"/>-資料提供作業
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10736061_681075725322320_1646086429_n.jpg?oh=1171b7a4cc37f0b5be94484ca59bf83f&oe=5449674B&__gda__=1414065691_e6f47c8b10e3872b34153a8934cb9150">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4809531/7652be96-5eac-11e4-82ac-15e68414cc62.jpg">
