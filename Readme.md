@@ -135,7 +135,7 @@
 ######<a name ="30"/>-主畫面
 <img src="https://cloud.githubusercontent.com/assets/8717365/4809854/1ceed9a4-5eaf-11e4-9a3f-0cf787e22564.jpg">
 ######<a name ="31"/>-聊天室作業
-<img src="https://cloud.githubusercontent.com/assets/8717365/4809952/b92617ec-5eaf-11e4-943a-7097cfcb7347.jpg">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4875420/2332c31c-6296-11e4-91ae-c8781ebdb95a.jpg">
 ######<a name ="32"/>-美食列表作業
 <img src="https://cloud.githubusercontent.com/assets/8717365/4809857/1d654364-5eaf-11e4-9d52-1ab018dab4af.jpg">
 ######<a name ="33"/>-住宿列表作業
@@ -143,13 +143,13 @@
 ######<a name ="34"/>-交通列表作業
 <img src="https://cloud.githubusercontent.com/assets/8717365/4809855/1d0e919a-5eaf-11e4-8371-cae0a1752dd1.jpg">
 ######<a name ="35"/>-資料管理作業
-<img src="https://cloud.githubusercontent.com/assets/8717365/4809859/1da2187a-5eaf-11e4-836b-36908aa00a77.jpg">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4875421/271b94e0-6296-11e4-8e40-60ccab55e644.jpg">
 ######<a name ="36"/>-資料提供作業
-<img src="https://cloud.githubusercontent.com/assets/8717365/4809951/b9255a14-5eaf-11e4-98f6-70f539082827.jpg">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4875422/2c857252-6296-11e4-82da-447b3ab7de43.jpg">
 
 ####<a name ="14"/>玖、整個系統的初步類別圖####
 ----------
-<img src="https://cloud.githubusercontent.com/assets/8717365/4819819/7a93ce4c-5f0a-11e4-8898-b934a51750ad.jpg">
+<img src="">
 
 ####<a name ="15"/>拾、每個名稱事件之合約####
 ----------
