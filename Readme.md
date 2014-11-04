@@ -149,7 +149,7 @@
 
 ####<a name ="14"/>玖、整個系統的初步類別圖####
 ----------
-<img src="">
+<img src="https://cloud.githubusercontent.com/assets/8717365/4900760/676aa16c-642b-11e4-87af-c1585a78b0eb.jpg">
 
 ####<a name ="15"/>拾、每個名稱事件之合約####
 ----------
