@@ -147,6 +147,8 @@
 ######<a name ="36"/>-資料提供作業
 <img src="https://cloud.githubusercontent.com/assets/8717365/4875422/2c857252-6296-11e4-82da-447b3ab7de43.jpg">
 
+<img src ="https://cloud.githubusercontent.com/assets/8717365/5184547/44f197f2-74f3-11e4-824e-f8b382d19dcf.PNG">
+<img src ="https://cloud.githubusercontent.com/assets/8717365/5184535/2ffe54d4-74f3-11e4-8314-e89406719d85.PNG">
 ####<a name ="14"/>玖、整個系統的初步類別圖####
 ----------
 <img src="https://cloud.githubusercontent.com/assets/8717365/5004420/79faf926-6a57-11e4-9819-d6e399f8e8d6.jpg">
