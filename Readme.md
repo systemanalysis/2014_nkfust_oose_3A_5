@@ -36,7 +36,7 @@
   [-資料管理作業](#35)<br>
   [-資料提供作業](#36)<br>
 ####[玖、整個系統的初步類別圖](#14)####
-####[強韌圖](#37)####
+
 ####[拾、每個名稱事件之合約](#15)####
   [-GPS定位作業](#23)<br>
   [-聊天室作業](#24)<br>
@@ -55,7 +55,8 @@
   [-交通列表作業](#20)<br>
   [-資料管理作業](#21)<br>
   [-資料提供作業](#22)<br>
-       
+  
+####[拾參、強韌圖](#37)####     
 ----------
 
 
@@ -153,11 +154,7 @@
 ####<a name ="14"/>玖、整個系統的初步類別圖####
 ----------
 <img src="https://cloud.githubusercontent.com/assets/8717365/5004420/79faf926-6a57-11e4-9819-d6e399f8e8d6.jpg">
-#####<a name ="37"/>強韌圖
-----------
-<img src="https://cloud.githubusercontent.com/assets/8717365/5275134/538aeec0-7ada-11e4-82e1-6eb6f46397f8.PNG">
-<img src="https://cloud.githubusercontent.com/assets/8717365/5275133/5388ecb0-7ada-11e4-8e3e-d9efd4097bce.PNG">
-<img src="https://cloud.githubusercontent.com/assets/8717365/5275135/538cb7a0-7ada-11e4-9700-e16d543ee4d0.PNG">
+
 ####<a name ="15"/>拾、每個名稱事件之合約####
 ----------
 ######<a name ="23"/>-GPS定位作業
@@ -198,3 +195,9 @@
 <img src="https://cloud.githubusercontent.com/assets/8717365/4809532/7655d752-5eac-11e4-8de8-75be2813a350.jpg">
 ######<a name ="22"/>-資料提供作業
 <img src="https://cloud.githubusercontent.com/assets/8717365/4809531/7652be96-5eac-11e4-82ac-15e68414cc62.jpg">
+
+#####<a name ="37"/>拾參、強韌圖
+----------
+<img src="https://cloud.githubusercontent.com/assets/8717365/5275134/538aeec0-7ada-11e4-82e1-6eb6f46397f8.PNG">
+<img src="https://cloud.githubusercontent.com/assets/8717365/5275133/5388ecb0-7ada-11e4-8e3e-d9efd4097bce.PNG">
+<img src="https://cloud.githubusercontent.com/assets/8717365/5275135/538cb7a0-7ada-11e4-9700-e16d543ee4d0.PNG">
