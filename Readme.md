@@ -58,6 +58,9 @@
   
 ####[拾參、強韌圖](#37)####
 ####[拾肆、使用案例循序圖](#38)####
+
+####[ERMODEL](#39)####
+####[程式碼](#40)####
 ----------
 
 
@@ -212,3 +215,11 @@
 <img src="https://cloud.githubusercontent.com/assets/8717365/5358676/de649304-7ff1-11e4-8090-0b9973c188b4.PNG">
 <img src="https://cloud.githubusercontent.com/assets/8717365/5358678/de66923a-7ff1-11e4-9978-e431f0e06b6b.PNG">
 <img src="https://cloud.githubusercontent.com/assets/8717365/5358679/de8be468-7ff1-11e4-99ac-fc4c121ef86f.PNG">
+
+#####<a name ="39"/>ERMODEL
+----------
+<img src="https://cloud.githubusercontent.com/assets/8717365/5579298/1c5e5050-9073-11e4-9b31-56e81382aad5.PNG">
+
+#####<a name ="40"/>程式碼
+----------
+<img src="">
