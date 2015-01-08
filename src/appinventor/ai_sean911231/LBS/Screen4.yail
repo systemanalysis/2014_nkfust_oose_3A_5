@@ -1,0 +1,232 @@
+#|
+$Source $Yail
+|#
+
+(define-form appinventor.ai_sean911231.LBS.Screen4 Screen4)
+(require <com.google.youngandroid.runtime>)
+
+;;; Screen4
+
+(do-after-form-creation (set-and-coerce-property! 'Screen4 'AlignHorizontal 3 'number)
+ (set-and-coerce-property! 'Screen4 'BackgroundColor #x00FFFFFF 'number)
+ (set-and-coerce-property! 'Screen4 'BackgroundImage "back2.png" 'text)
+ (set-and-coerce-property! 'Screen4 'ScreenOrientation "user" 'text)
+)
+
+;;; VerticalArrangement1
+
+(add-component Screen4 VerticalArrangement VerticalArrangement1 
+(set-and-coerce-property! 'VerticalArrangement1 'Width -2 'number)
+
+(set-and-coerce-property! 'VerticalArrangement1 'Height -2 'number)
+
+)
+
+;;; VerticalArrangement2
+
+(add-component VerticalArrangement1 VerticalArrangement VerticalArrangement2 
+(set-and-coerce-property! 'VerticalArrangement2 'Width -2 'number)
+
+(set-and-coerce-property! 'VerticalArrangement2 'Height 45 'number)
+
+)
+
+;;; HorizontalArrangement1
+
+(add-component VerticalArrangement1 HorizontalArrangement HorizontalArrangement1 
+(set-and-coerce-property! 'HorizontalArrangement1 'AlignHorizontal 3 'number)
+
+(set-and-coerce-property! 'HorizontalArrangement1 'AlignVertical 2 'number)
+
+(set-and-coerce-property! 'HorizontalArrangement1 'Width -2 'number)
+
+(set-and-coerce-property! 'HorizontalArrangement1 'Height 50 'number)
+
+)
+
+;;; Button2
+
+(add-component HorizontalArrangement1 Button Button2 
+(set-and-coerce-property! 'Button2 'BackgroundColor #x00FFFFFF 'number)
+
+(set-and-coerce-property! 'Button2 'Image "chat.png" 'text)
+
+(set-and-coerce-property! 'Button2 'Shape 3 'number)
+
+(set-and-coerce-property! 'Button2 'ShowFeedback #f 'boolean)
+
+(set-and-coerce-property! 'Button2 'Width 40 'number)
+
+(set-and-coerce-property! 'Button2 'Height 40 'number)
+
+)
+
+(define-event Button2 Click()(set-this-form)
+    (call-yail-primitive open-another-screen (*list-for-runtime* "Screen3") '(text) "open another screen"))
+;;; HorizontalArrangement4
+
+(add-component HorizontalArrangement1 HorizontalArrangement HorizontalArrangement4 
+(set-and-coerce-property! 'HorizontalArrangement4 'AlignHorizontal 3 'number)
+
+(set-and-coerce-property! 'HorizontalArrangement4 'Width 30 'number)
+
+)
+
+;;; Label1
+
+(add-component HorizontalArrangement4 Label Label1 
+(set-and-coerce-property! 'Label1 'FontSize 30 'number)
+
+(set-and-coerce-property! 'Label1 'Text "|" 'text)
+
+(set-and-coerce-property! 'Label1 'TextAlignment 1 'number)
+
+)
+
+;;; Button3
+
+(add-component HorizontalArrangement1 Button Button3 
+(set-and-coerce-property! 'Button3 'BackgroundColor #x00FFFFFF 'number)
+
+(set-and-coerce-property! 'Button3 'Image "food.png" 'text)
+
+(set-and-coerce-property! 'Button3 'Shape 3 'number)
+
+(set-and-coerce-property! 'Button3 'Width 40 'number)
+
+(set-and-coerce-property! 'Button3 'Height 40 'number)
+
+)
+
+(define-event Button3 Click()(set-this-form)
+    (call-yail-primitive open-another-screen (*list-for-runtime* "Screen4") '(text) "open another screen"))
+;;; HorizontalArrangement5
+
+(add-component HorizontalArrangement1 HorizontalArrangement HorizontalArrangement5 
+(set-and-coerce-property! 'HorizontalArrangement5 'AlignHorizontal 3 'number)
+
+(set-and-coerce-property! 'HorizontalArrangement5 'Width 30 'number)
+
+)
+
+;;; Label2
+
+(add-component HorizontalArrangement5 Label Label2 
+(set-and-coerce-property! 'Label2 'FontSize 30 'number)
+
+(set-and-coerce-property! 'Label2 'Text "|" 'text)
+
+(set-and-coerce-property! 'Label2 'TextAlignment 1 'number)
+
+)
+
+;;; Button4
+
+(add-component HorizontalArrangement1 Button Button4 
+(set-and-coerce-property! 'Button4 'BackgroundColor #x00FFFFFF 'number)
+
+(set-and-coerce-property! 'Button4 'Image "room.png" 'text)
+
+(set-and-coerce-property! 'Button4 'Shape 3 'number)
+
+(set-and-coerce-property! 'Button4 'Width 40 'number)
+
+(set-and-coerce-property! 'Button4 'Height 40 'number)
+
+)
+
+(define-event Button4 Click()(set-this-form)
+    (call-yail-primitive open-another-screen (*list-for-runtime* "Screen5") '(text) "open another screen"))
+;;; HorizontalArrangement6
+
+(add-component HorizontalArrangement1 HorizontalArrangement HorizontalArrangement6 
+(set-and-coerce-property! 'HorizontalArrangement6 'AlignHorizontal 3 'number)
+
+(set-and-coerce-property! 'HorizontalArrangement6 'Width 30 'number)
+
+)
+
+;;; Label3
+
+(add-component HorizontalArrangement6 Label Label3 
+(set-and-coerce-property! 'Label3 'FontSize 30 'number)
+
+(set-and-coerce-property! 'Label3 'Text "|" 'text)
+
+(set-and-coerce-property! 'Label3 'TextAlignment 1 'number)
+
+)
+
+;;; Button5
+
+(add-component HorizontalArrangement1 Button Button5 
+(set-and-coerce-property! 'Button5 'BackgroundColor #x00FFFFFF 'number)
+
+(set-and-coerce-property! 'Button5 'Image "traffic.png" 'text)
+
+(set-and-coerce-property! 'Button5 'Shape 3 'number)
+
+(set-and-coerce-property! 'Button5 'Width 40 'number)
+
+(set-and-coerce-property! 'Button5 'Height 40 'number)
+
+)
+
+(define-event Button5 Click()(set-this-form)
+    (call-yail-primitive open-another-screen (*list-for-runtime* "Screen6") '(text) "open another screen"))
+;;; Button6
+
+(add-component VerticalArrangement1 Button Button6 
+(set-and-coerce-property! 'Button6 'Image "f1.png" 'text)
+
+(set-and-coerce-property! 'Button6 'ShowFeedback #f 'boolean)
+
+(set-and-coerce-property! 'Button6 'Width -2 'number)
+
+(set-and-coerce-property! 'Button6 'Height -2 'number)
+
+)
+
+(define-event Button6 Click()(set-this-form)
+    (call-component-method 'Notifier1 'ShowChooseDialog (*list-for-runtime* "\u5b9a\u4f4d\u6216\u662f\u770b\u8a55\u50f9\u5462?"  "\u9078\u64c7"  "\u5b9a\u4f4d"  "\u7db2\u8a55"  #t) '(text text text text boolean)))
+;;; Button7
+
+(add-component VerticalArrangement1 Button Button7 
+(set-and-coerce-property! 'Button7 'Image "f2.png" 'text)
+
+(set-and-coerce-property! 'Button7 'ShowFeedback #f 'boolean)
+
+(set-and-coerce-property! 'Button7 'Width -2 'number)
+
+(set-and-coerce-property! 'Button7 'Height -2 'number)
+
+)
+
+;;; ActivityStarter1
+
+(add-component Screen4 ActivityStarter ActivityStarter1 
+(set-and-coerce-property! 'ActivityStarter1 'Action "android.intent.action.VIEW" 'text)
+
+)
+
+;;; Notifier1
+
+(add-component Screen4 Notifier Notifier1 
+(set-and-coerce-property! 'Notifier1 'BackgroundColor #xFFCCCCCC 'number)
+
+(set-and-coerce-property! 'Notifier1 'TextColor #x00000000 'number)
+
+)
+
+(define-event Notifier1 AfterChoosing($choice)(set-this-form)
+    (if (call-yail-primitive yail-equal? (*list-for-runtime* (lexical-value $choice) "\u5b9a\u4f4d") '(any any) "=") (begin   (set-and-coerce-property! 'ActivityStarter1 'DataUri (call-yail-primitive string-append (*list-for-runtime* "https://www.google.com.tw/maps/dir/" (get-property 'LocationSensor1 'Latitude) "," (get-property 'LocationSensor1 'Longitude) "/%E6%BA%90%E5%9D%90%E7%BE%8A%E8%82%89%E5%BA%97+820%E9%AB%98%E9%9B%84%E5%B8%82%E5%B2%A1%E5%B1%B1%E5%8D%80%E4%B8%AD%E8%8F%AF%E8%B7%AF1-2%E8%99%9F/@22.764631,120.2767087,13z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x346e0e2355d6f561:0x4b223b14256bf708!2m2!1d120.332831!2d22.754484!1m5!1m1!1s0x346e0c2c47f0d04d:0x8cf298a98f6785d7!2m2!1d120.288371!2d22.790867" ) '(text text text text text ) "join") 'text)(call-component-method 'ActivityStarter1 'StartActivity (*list-for-runtime*) '())) (begin (if (call-yail-primitive yail-equal? (*list-for-runtime* (lexical-value $choice) "\u7db2\u8a55") '(any any) "=") (begin   (set-and-coerce-property! 'ActivityStarter1 'DataUri "http://www.yameme.com.tw/main.htm" 'text)(call-component-method 'ActivityStarter1 'StartActivity (*list-for-runtime*) '()))))))
+;;; LocationSensor1
+
+(add-component Screen4 LocationSensor LocationSensor1 
+(set-and-coerce-property! 'LocationSensor1 'DistanceInterval 100 'number)
+
+(set-and-coerce-property! 'LocationSensor1 'TimeInterval 0 'number)
+
+)
+
+(init-runtime)

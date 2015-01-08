@@ -1,0 +1,122 @@
+#|
+$Source $Yail
+|#
+
+(define-form appinventor.ai_sean911231.LBS.Screen1 Screen1)
+(require <com.google.youngandroid.runtime>)
+
+(def g$exit "0")
+;;; Screen1
+
+(do-after-form-creation (set-and-coerce-property! 'Screen1 'AlignHorizontal 3 'number)
+ (set-and-coerce-property! 'Screen1 'AlignVertical 2 'number)
+ (set-and-coerce-property! 'Screen1 'BackgroundColor #x00FFFFFF 'number)
+ (set-and-coerce-property! 'Screen1 'BackgroundImage "back2.png" 'text)
+ (set-and-coerce-property! 'Screen1 'ScreenOrientation "user" 'text)
+)
+
+(define-event Screen1 ScreenOrientationChanged()(set-this-form)
+    (set-var! g$exit "0"))
+(define-event Screen1 BackPressed()(set-this-form)
+    (if (call-yail-primitive yail-equal? (*list-for-runtime* (get-var g$exit) "1") '(any any) "=") (begin   (call-yail-primitive close-application (*list-for-runtime* ) '() "close application"))))
+;;; TableArrangement2
+
+(add-component Screen1 TableArrangement TableArrangement2 
+(set-and-coerce-property! 'TableArrangement2 'Columns 1 'number)
+
+(set-and-coerce-property! 'TableArrangement2 'Rows 1 'number)
+
+)
+
+;;; Image1
+
+(add-component TableArrangement2 Image Image1 
+(set-and-coerce-property! 'Image1 'Picture "LOGO.png" 'text)
+
+(set-and-coerce-property! 'Image1 'Column 0 'number)
+
+(set-and-coerce-property! 'Image1 'Row 0 'number)
+
+)
+
+;;; TableArrangement1
+
+(add-component Screen1 TableArrangement TableArrangement1 
+(set-and-coerce-property! 'TableArrangement1 'Columns 3 'number)
+
+)
+
+;;; TextBox1
+
+(add-component TableArrangement1 TextBox TextBox1 
+(set-and-coerce-property! 'TextBox1 'Column 2 'number)
+
+(set-and-coerce-property! 'TextBox1 'Row 0 'number)
+
+)
+
+;;; TextBox2
+
+(add-component TableArrangement1 TextBox TextBox2 
+(set-and-coerce-property! 'TextBox2 'Column 2 'number)
+
+(set-and-coerce-property! 'TextBox2 'Row 1 'number)
+
+)
+
+;;; Label1
+
+(add-component TableArrangement1 Label Label1 
+(set-and-coerce-property! 'Label1 'Text "\u5e33\u865f" 'text)
+
+(set-and-coerce-property! 'Label1 'Column 0 'number)
+
+(set-and-coerce-property! 'Label1 'Row 0 'number)
+
+)
+
+;;; Label2
+
+(add-component TableArrangement1 Label Label2 
+(set-and-coerce-property! 'Label2 'Text "\u5bc6\u78bc" 'text)
+
+(set-and-coerce-property! 'Label2 'Column 0 'number)
+
+(set-and-coerce-property! 'Label2 'Row 1 'number)
+
+)
+
+;;; TableArrangement3
+
+(add-component Screen1 TableArrangement TableArrangement3 
+(set-and-coerce-property! 'TableArrangement3 'Columns 3 'number)
+
+(set-and-coerce-property! 'TableArrangement3 'Rows 1 'number)
+
+)
+
+;;; Button1
+
+(add-component TableArrangement3 Button Button1 
+(set-and-coerce-property! 'Button1 'Text "\u767b\u5165" 'text)
+
+(set-and-coerce-property! 'Button1 'Column 2 'number)
+
+(set-and-coerce-property! 'Button1 'Row 0 'number)
+
+)
+
+(define-event Button1 Click()(set-this-form)
+    (call-yail-primitive open-another-screen (*list-for-runtime* "Screen2") '(text) "open another screen"))
+;;; Button2
+
+(add-component TableArrangement3 Button Button2 
+(set-and-coerce-property! 'Button2 'Text "\u8a3b\u518a" 'text)
+
+(set-and-coerce-property! 'Button2 'Column 0 'number)
+
+(set-and-coerce-property! 'Button2 'Row 0 'number)
+
+)
+
+(init-runtime)
